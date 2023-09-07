@@ -2,7 +2,9 @@
 
 void main() {
 
-	printf("Hello KNU!");
+	printf("Hello KNU!\n");
+	printf("Hello KNU!\n");
+	printf("Hello KNU!\n");
 	
 
 }
