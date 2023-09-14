@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*void main() {
+void main() {
 	char ch;
 	char str[10];
 
@@ -15,5 +15,5 @@
 	printf("입력한 문자열 출력:%s\n",str);
 
 }
-*/
+
 //int 문자형 무조건 4바이트다 X //
