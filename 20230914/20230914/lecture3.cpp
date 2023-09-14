@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main() {
+/*void main() {
 
 	int val_1, val_2, a, b;
 	printf("a=10,b=15¿œ∂ß\n");
@@ -12,3 +12,4 @@ void main() {
 	printf("1. val_1=%d,a=%d,b=%d\n", val_1, a, b);
 
 }
+*/
