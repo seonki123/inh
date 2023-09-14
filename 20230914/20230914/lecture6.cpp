@@ -3,8 +3,10 @@
 void main() {
 
 	int i;
+
 	printf("점수를 입력하세여");
 	scanf_s("%d", &i);
+
 	if (i > 100 || i < 0)
 		printf("잘못 입력하셨습니다");
 	else if (i  >= 90)
